@@ -7,3 +7,5 @@ sudo docker ps -a
 sudo docker stop <CONTAINER_ID | NAMES>
 
 sudo docker start <CONTAINER_ID | NAMES>
+
+sudo docker start gostack_postgres_2020
